@@ -1,0 +1,22 @@
+{
+  "wheel_id": 539,
+  "structure": "umbrella",
+  "slug": "fencingcaboolture-103",
+  "project": "fence-builders-caboolture-suburb-guide-3dc9289ccc61295f00a6c",
+  "parent_t1_ref": "fencingcaboolture-151",
+  "node_role": "feeder",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fence builders caboolture suburb guide",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/fence-builders-caboolture-suburb-guide-3dc9289ccc61295f00a6c/",
+  "tier": "T2",
+  "writeback_nonce": "63eb32724d5d6338",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fence-builders-caboolture-2abe0898241d217d0016b9f8ef670cfc5c0cb/",
+      "anchor": "Fence Builders Caboolture: fence builders",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
